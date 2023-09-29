@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./Landing_page.css">
+</head>
+<body>
+     <div id="main">
+        <div id="nav">
+            <h3><span>Echo</span>Artistry</h3>
+            <div id="links">
+                <a href="">Home</a>
+                <a href="">Pricing</a>
+                <a href="">About</a>
+                <a href="">Contact Me</a>
+            </div>
+        </div>
+        <div id="heading">
+            <h1>The Storymaker Vibe</h1>
+            <br>
+            <h4 style="color: brown;">Crafting Sonic Stories, Elevating Cinematic Experiences,Where Artistry Meets Imagination in Every Echo.</h4>
+            <br>
+            <button>Explore Now</button>
+        </div>
+        <div id="illus">
+            <img src="illus.png" alt="">
+        </div>
+        <div id="details">
+            <div id="dleft">
+                <h1>Gain the attention<br>your film deserves </h1>
+                <div id="smline"></div>
+                <p>Our passion lies in collaborating with independent filmmakers who share our devotion to creativity and the art of storytelling.</p>
+
+            </div>
+            <div id="dright">
+                <div class="feat">
+                    <img src="th.jpeg" style="width:30px;height:30px;">
+                    <div class="fdets">
+                        <h3>Collaborative Creativity</h3>
+                        <p>We understand the unique vision and creative drive that independent filmmakers possess. That's why we pride ourselves on being not just a service provider, but a partner in your storytelling journey.</p>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+     </div>
+     <div id="about" style="">
+    <h2 style="text-align: center;"><image src="th (1).jpeg" style="width:60px;height:45px;margin-right:20px;"></image>About Our Services:</h2></div><br><br>
+    <p style="margin-left:15%;margin-right:15%;border:3px solid skyblue;border-radius:10px;padding:10px 10px 10px 10px"> At EchoArtistry, we are dedicated to transforming sound into art, bringing stories to life through immersive and captivating audio experiences. Our passion lies in collaborating with independent filmmakers who share our devotion to creativity and the art of storytelling.
+        Every project at EchoArtistry is approached with a meticulous blend of technical expertise and artistic finesse. We believe that sound is more than just an accompaniment; it's a powerful narrative tool that can elevate a film's emotional impact and immerse the audience in the world you've created.
+        We understand the unique vision and creative drive that independent filmmakers possess. That's why we pride ourselves on being not just a service provider, but a partner in your storytelling journey. Together, we'll weave a tapestry of sound that resonates with your audience on a profound level.
+        Whether it's creating bespoke soundscapes, perfecting dialogue, or crafting evocative music, our team of experienced sound engineers and designers are committed to delivering customized solutions that meet your project's unique demands.
+        Explore our portfolio to witness the transformative power of our audio expertise. Join us in shaping narratives that leave an indelible mark on your audience. Together, let's turn your visions into sonic masterpieces.
+    </p>
+     <footer>
+        <div class="footer">
+            <div class="footer-first">
+                <h3 style="font-weight: 600;">ECHO<span style="font-weight:400;text-transform: uppercase;">Artistry</span></h3><br>
+                <p>Crafting Sonic Stories,<br>
+                   Elevating Cinematic Experiences,<br>
+                   Where Artistry Meets Imagination<br>
+                   in Every Echo.</p>
+                </div>
+            <div class="footer-second">
+                <ul>
+                    <li><a href="" style="text-decoration: none;">Home</a></li>
+                    <li><a href="" style="text-decoration: none;">Pricing</a></li>
+                    <li><a href="" style="text-decoration: none;">About</a></li>
+                    <li><a href="" style="text-decoration: none;">Contact Me</a></li>
+                    
+                </ul>
+                
+                </div>
+            <div class="footer-third">
+                <ul>
+                    <li><a href="" style="text-decoration: none;">Home</a></li>
+                    <li><a href="" style="text-decoration: none;">Pricing</a></li>
+                    <li><a href="" style="text-decoration: none;">About</a></li>
+                    <li><a href="" style="text-decoration: none;">Contact Me</a></li>
+                    
+                </ul>
+                </div>
+            <div class="footer-fourth">
+                <ul>
+                <div id="foo1">
+                    <li style="color:violet;"><h3> Contact:</h3> </li>
+                    <li>hello@snapsound.com</li>
+                    <li>1-818-237-6755</li>
+                </div>
+                </ul>
+                
+                </div>
+            </div>
+
+            <div class="footer-rights">
+                2023 Copyright © www.EchoArtistry.com | All rights reserved.
+            </div>
+    </footer>
+    
+</body>
+</html>
